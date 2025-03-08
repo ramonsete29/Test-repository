@@ -6,5 +6,6 @@ int main() {
     printf("Introduce la id del jugador que quieres inicializar: ");
     scanf("%d", &id);
     inicializarJugador(id);
+    // Menu()
     return 0;
 }
